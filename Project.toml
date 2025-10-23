@@ -1,0 +1,8 @@
+name = "ZeroDnnJulia"
+uuid = "9f398a5a-1b90-42a1-830f-b21c9f1ac38d"
+version = "0.1.0"
+authors = ["Kentaro Miki <mikiken.dev@gmail.com>"]
+
+[deps]
+Images = "916415d5-f1e6-5110-898d-aaa5f9f070e0"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
